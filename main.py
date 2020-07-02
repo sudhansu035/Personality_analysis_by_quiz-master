@@ -19,7 +19,7 @@ application = Flask(__name__)
 @application.route('/')
 def Starting():
     
-    return '''<a href = 'http://127.0.0.1:5000/display_qn' > Click on this link to open questions page</a>   '''
+    return '''<a href = 'https://quizmaster-app.herokuapp.com/display_qn' > Click on this link to open questions page</a>   '''
 
 
 
