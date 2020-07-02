@@ -22,7 +22,6 @@ kiwisolver==1.2.0
 legacy==0.1.6
 MarkupSafe==1.1.1
 matplotlib==3.2.2
-mysql-client==0.0.1
 nltk==3.5
 numpy==1.18.5
 oauthlib==3.1.0
