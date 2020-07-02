@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath resumeparser resumeparser.wsgi --log-file -
+web: gunicorn --pythonpath mypython mypython.wsgi --log-file -
