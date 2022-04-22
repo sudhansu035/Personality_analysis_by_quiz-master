@@ -37,7 +37,7 @@ py4j==0.10.7
 PyMySQL==0.9.3
 PyMysqlDB==0.0.2
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyPDF4==1.27.0
 PySocks==1.7.1
 pyspark==2.4.4
