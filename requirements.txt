@@ -40,7 +40,7 @@ pyparsing==2.4.7
 PyPDF2==1.26.0
 PyPDF4==1.27.0
 PySocks==1.7.1
-pyspark==2.4.4
+pyspark==3.2.2
 pyspark-stubs==2.4.0.post7
 pytesseract==0.3.4
 python-dateutil==2.8.1
